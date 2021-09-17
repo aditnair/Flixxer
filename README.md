@@ -43,6 +43,7 @@ I had trouble with uploading a gif into the readme.md file and uploading my code
 ### App Walkthrough GIF
 
 <img src="https://imgur.com/xvba1FL.gif" width=250><br>
+please go to https://imgur.com/xvba1FL.gif 
 
 ### Notes
 None 
